@@ -1,0 +1,8 @@
+name: RandomTp
+version: '${project.version}'
+main: randomtpplugins.randomtp.RandomTp
+api-version: 1.18
+commands:
+  rt:
+    description: Random teleports but, X200- Y60- Z200- in random location.
+    usage: /<command>
